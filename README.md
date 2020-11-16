@@ -1,3 +1,14 @@
+## Team 2 Testing Notes
+
+Team 2 is testing the main program and backtesting models (we are also doing the CFG)
+
+Notes:
+
+* Testing the main program: input validation, valid/invalid date ranges, valid tickers, mutation testing
+* Testing the backtesting models: mutation testing
+* Ben can test the main program and Cody can test the backtesting models
+* Test code, reports, and results will be stored in the Testing directory
+
 ## What?
 
 This is a general purpose lightweight backtesting engine for stocks, written in modern Java 8.
